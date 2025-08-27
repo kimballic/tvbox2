@@ -2,9 +2,14 @@
 "spider":"./jar/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847",
 "logo":"https://avatars.githubusercontent.com/u/58679624?v=4",
 
-"wallpaper":"https://深色壁纸.xxooo.cf/",
+//"wallpaper":"https://深色壁纸.xxooo.cf/",
 "sites":[
-    {"key":"豆","name":"【神秘的哥哥们】","type":3,"api":"csp_DouDouGuard","indexs":1,"searchable":0,"quickSearch":0,"changeable":0},
+    {"key":"豆","name":"【ケンのspider":"./jar/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847",
+"logo":"https://avatars.githubusercontent.com/u/58679624?v=4",
+
+//"wallpaper":"https://深色壁纸.xxooo.cf/",
+"sites":[
+    {"key":"豆","name":"【ケンのテレビ】","type":3,"api":"csp_DouDouGuard","indexs":1,"searchable":0,"quickSearch":0,"changeable":0},
 
     {"key":"苹果","name":"🍎苹果┃不卡","type":3,"api":"csp_LiteAppleGuard","searchable":1,"quickSearch":1,"changeable":1},
     {
@@ -17,22 +22,100 @@
     {"key":"百度","name":"百度┃采集","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod?ac=list","searchable":1,"filterable":0,"categories":["国产动漫","日韩动漫","大陆剧","欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
     {"key":"量子","name":"量子┃采集","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","台湾剧","香港剧","欧美剧","记录片","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫","体育","足球","篮球","网球","斯诺克"]},
     {"key":"非凡","name":"非凡┃采集","type":0,"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","香港剧","欧美剧","记录片","台湾剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫"]},
+        {
+            "key": "b9464b776020d959e6775a3a2fc5fa59",
+            "name": "2-非凡",
+            "type": 0,
+            "api": "https://cj.ffzyapi.com/api.php/provide/vod/at/xml"
+        },
+        {
+            "key": "b008ad0dc87b3320523849f7db5be57a",
+            "name": "3-非凡",
+            "type": 1,
+            "api": "http://api.ffzyapi.com/api.php/provide/vod/"
+        },
+        {
+            "key": "128a3ed3126edda4afa3fc1d93b91cf5",
+            "name": "5-非凡",
+            "type": 1,
+            "api": "http://ffzy1.tv/api.php/provide/vod/"
+        },
+        {
+            "key": "3c7ccdbf2994804f35d8b603c5268818",
+            "name": "6-非凡",
+            "type": 1,
+            "api": "http://cj.ffzyapi.com/api.php/provide/vod/"
+        },
+        {
+            "key": "7b1d09368af7a13806e1a8e1e43850e5",
+            "name": "7-非凡",
+            "type": 1,
+            "api": "https://cj.ffzyapi.com/api.php/provide/vod/"
+        },
+        {
+            "key": "08770a213d5c282a0fe20bf7648a9aba",
+            "name": "8-非凡",
+            "type": 1,
+            "api": "https://api.ffzyapi.com/api.php/provide/vod/"
+        },
+        {
+            "key": "730acd683fc317fa1a584e5613e727f0",
+            "name": "9-非凡",
+            "type": 1,
+            "api": "http://cj.ffzyapi.com//api.php/provide/vod/"
+        },
+        {
+            "key": "73b5c89acc8a7c24118857fc514e9218",
+            "name": "10-非凡",
+            "type": 1,
+            "api": "http://ffzy3.tv/api.php/provide/vod/"
+        },
+        {
+            "key": "ad1116ca9a9b3057570066086c9c9698",
+            "name": "11-非凡",
+            "type": 1,
+            "api": "http://ffzy4.tv/api.php/provide/vod/"
+        },
+        {
+            "key": "cf97f252cca094245f27f5ddce5a995f",
+            "name": "12-非凡",
+            "type": 1,
+            "api": "http://ffzy2.tv/api.php/provide/vod/"
+        },
+        {
+            "key": "4d6422f0a2bc81fc9606ecc2d97208eb",
+            "name": "15-非凡",
+            "type": 1,
+            "api": "http://ffzy.tv/api.php/provide/vod/"
+        },
+        {
+            "key": "a794df941b177a5eb1e4e991fb5eaccb",
+            "name": "16-非凡",
+            "type": 1,
+            "api": "http://www.ffzy.tv/api.php/provide/vod/"
+        },
+        {
+            "key": "c175280641d5263f0d0d9cbfab0162c3",
+            "name": "17-非凡",
+            "type": 1,
+            "api": "http://ffzy5.tv/api.php/provide/vod/"
+        },
+    
     {"key":"索尼","name":"索尼┃采集","type":1,"api":"https://suoniapi.com/api.php/provide/vod","searchable":1,"changeable":1},
     {"key":"快帆","name":"快帆┃采集","type":1,"api":"https://api.kuaifan.tv/api.php/provide/vod","searchable":1,"changeable":1},
 
-    {"key":"Lib","name":"🌟立播┃秒播","type":3,"api":"csp_LibvioGuard","searchable":1,"quickSearch":1,"changeable":1,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
-    {"key":"Dm84","name":"🚌巴士┃动漫","type":3,"api":"csp_Dm84Guard","searchable":1,"quickSearch":1,"changeable":1},
     {"key":"Ysj","name":"🎀异界┃动漫","type":3,"api":"csp_YsjGuard","searchable":1,"quickSearch":1,"changeable":1},
     {"key":"Anime1","name":"🐾日本┃动漫","type":3,"api":"csp_Anime1Guard","searchable":1,"quickSearch":1,"changeable":1},
- 
-    {"key":"YpanSo","name":"🐟盘她┃三盘","type":3,"api":"csp_YpanSoGuard","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
-    {"key":"xzso","name":"👻盘它┃三盘","type":3,"api":"csp_XzsoGuard","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
+
+    //{"key":"YpanSo","name":"🐟盘她┃三盘","type":3,"api":"csp_YpanSoGuard","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
+    //{"key":"xzso","name":"👻盘它┃三盘","type":3,"api":"csp_XzsoGuard","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
     {"key":"米搜","name":"🦋米搜┃夸父","type":3,"api":"csp_MIPanSoGuard","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
     {"key":"夸搜","name":"😻夸搜┃夸父","type":3,"api":"csp_PanSearchGuard","searchable":1,"quickSearch":1,"changeable":0,"ext":{"pan":"quark","Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
     {"key":"Aliso","name":"🙀盘搜┃阿狸","type":3,"api":"csp_PanSearchGuard","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
+    {"key":"Lib","name":"🌟立播┃秒播","type":3,"api":"csp_LibvioGuard","searchable":1,"quickSearch":1,"changeable":1,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 
-{"key":"bb","name":"配置接口完全免费","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},
-{"key":"cc","name":"请勿相信视频中任何广告","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"}
+//{"key":"bb","name":"配置接口完全免费","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},
+//{"key":"cc","name":"请勿相信视频中任何广告","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"}
 ],
     
 "parses":[
