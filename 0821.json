@@ -24,8 +24,8 @@
             "api": "https://cj.ffzyapi.com/api.php/provide/vod/at/xml"
         },
         {
-            "key": "b008ad0dc87b3320523849f7db5be57a",
-            "name": "3-非凡",
+            "key": "ffzy",
+            "name": "3-=非凡",
             "type": 1,
             "api": "https://api.ffzyapi.com/api.php/provide/vod/"
         },
