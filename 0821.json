@@ -26,6 +26,8 @@
         {
             "key": "ffzy",
             "name": "3=非凡",
+            "type": 1,
+            "searchable":1,
             "api": "https://api.ffzyapi.com/api.php/provide/vod/"
         },
         {
